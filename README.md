@@ -18,8 +18,8 @@ I love working with data to uncover insights and help organizations make informe
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
 
-- 📧 Email: [venkatasr.nadella@gmail.com]
-- 🌐 LinkedIn: [[Link]([url](https://www.linkedin.com/in/venkata-sai-ram-nadella-05b973319/))]
+- 📧 Email: venkatasr.nadella@gmail.com
+- 🌐 LinkedIn: [Link](https://www.linkedin.com/in/venkata-sai-ram-nadella-05b973319/)
 
 
 Thank you for visiting my profile! I look forward to connecting with you.
