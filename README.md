@@ -24,6 +24,14 @@ Feel free to reach out if you have any questions, collaboration ideas, or just w
 
 Thank you for visiting my profile! I look forward to connecting with you.
 
+Data Analysis Projects
+
+[Financial Data Analysis using SQL]([url](https://github.com/Venkatasr665/Data-Analysis-SQL-))
+
+I conducted a data analysis exercise using SQL and derived high-level insights from the data. For this analysis, I created a sample financial dataset.
+
+[SQL Code]([url](https://github.com/Venkatasr665/Data-Analysis-SQL-/blob/main/Financial%20Data%20-%20Data%20Analysis%20Queries.sql))
+
 
 
 <!---
