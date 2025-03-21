@@ -29,7 +29,6 @@ Feel free to reach out if you have any questions, collaboration ideas, or just w
 - 📧 Email: venkatasr.nadella@gmail.com
 - 🌐 LinkedIn: [Link](https://www.linkedin.com/in/venkata-sai-ram-nadella-05b973319/)
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 
 
 Thank you for visiting my profile! I look forward to connecting with you.
