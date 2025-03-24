@@ -14,13 +14,9 @@ I love working with data to uncover insights and help organizations make informe
 - **Data Visualization**: Power BI, 
 - **Soft Skills**: Communication, Problem-solving, Team Collaboration
 
-## Data Analysis Projects
+## Projects
 
-[Financial Data Analysis using SQL](https://github.com/Venkatasr665/Data-Analysis-SQL-)
-
-I conducted a data analysis exercise using SQL and derived high-level insights from the data. For this analysis, I created a sample financial dataset.
-
-[SQL Code](https://github.com/Venkatasr665/Data-Analysis-SQL-/blob/main/Financial%20Data%20-%20Data%20Analysis%20Queries.sql)
+I have worked on several projects utilizing Power BI and SQL, all of which can be found in my repository.
 
 ## How to Reach Me
 
